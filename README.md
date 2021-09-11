@@ -12,6 +12,7 @@ My name is Useung, I am interested in Web Frontend and App developing!
   <img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=MobX&logoColor=white"/>
 </p>
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=woose28&show_icons=true)
 
 <!--
 **woose28/woose28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
