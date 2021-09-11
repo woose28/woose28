@@ -1,4 +1,8 @@
-### Hi there 👋
+### Nice to meet you 👋
+My name is Useung, I am interested in Web Frontend and App developing!
+
+🛠 I'm studying these things 🛠
+<img src="https://img.shields.io/badge/JavaScript-3DDC84?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 <!--
 **woose28/woose28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
