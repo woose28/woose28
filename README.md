@@ -1,7 +1,8 @@
 ### Nice to meet you 👋
 My name is Useung, I am interested in Web Frontend and App developing!
 
-🛠 I'm studying these things 🛠
+<center>🛠 I'm studying these things 🛠</center>
+<br/>
 <img src="https://img.shields.io/badge/JavaScript-3DDC84?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 <!--
