@@ -1,9 +1,12 @@
 ### Nice to meet you 👋
 My name is Useung, I am interested in Web Frontend and App developing!
 
-<center>🛠 I'm studying these things 🛠</center>
-<br/>
-<img src="https://img.shields.io/badge/JavaScript-3DDC84?style=flat-square&logo=JavaScript&logoColor=white"/>
+<h3 align="center">🖥 I'm studying these things 🖥</h3>
+
+<p align="center>
+  <img src="https://img.shields.io/badge/JavaScript-3DDC84?style=flat-square&logo=JavaScript&logoColor=white"/>
+</p>
+
 
 <!--
 **woose28/woose28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
