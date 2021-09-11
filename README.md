@@ -3,8 +3,8 @@ My name is Useung, I am interested in Web Frontend and App developing!
 
 <h4 align="center">🖥 I'm studying these things 🖥</h4>
 
-<p align="center>
-  <img src="https://img.shields.io/badge/JavaScript-3DDC84?style=flat-square&logo=JavaScript&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 </p>
 
 
