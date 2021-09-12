@@ -14,7 +14,7 @@ My name is Useung, I am interested in Web Frontend and App developing!
 
 <h4>📚 Online Judge<h4>
 <p/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woose28)](https://solved.ac/woose28/)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=woose28)](https://solved.ac/woose28)
 
   
 <!--
