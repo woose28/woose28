@@ -13,9 +13,10 @@ My name is Useung, I am interested in Web Frontend and App developing!
 </p>
 
 <h4>📚 Online Judge<h4>
-<p/>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=woose28)](https://solved.ac/woose28)
-
+<br/>
+<p>
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=woose28)](https://solved.ac/woose28)
+</p>
   
 <!--
 **woose28/woose28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
