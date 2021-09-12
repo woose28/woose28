@@ -1,6 +1,8 @@
 ### Nice to meet you 👋
 My name is Useung, I am interested in Web Frontend and App developing!
 
+<h4 align="center">🖥 I'm studying these things 🖥</h4>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woose28)](https://solved.ac/woose28/)
 
 <!--
