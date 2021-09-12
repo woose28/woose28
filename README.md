@@ -1,6 +1,9 @@
 ### Nice to meet you 👋
 My name is Useung, I am interested in Web Frontend and App developing!
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woose28)](https://solved.ac/woose28/)
+
+<!--
 <h4 align="center">🖥 I'm studying these things 🖥</h4>
 
 <p align="center">
@@ -17,7 +20,8 @@ My name is Useung, I am interested in Web Frontend and App developing!
 <p>
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=woose28)](https://solved.ac/woose28)
 </p>
-  
+-->
+
 <!--
 **woose28/woose28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
