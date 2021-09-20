@@ -12,7 +12,7 @@ My name is Useung, I am interested in Web Frontend and App developing!
   <img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=MobX&logoColor=white"/>
 </p>
 
-If you want to know more about me, please visit my [blog](https://coding-w00se.tistory.com) and the [introduction page](https://picturesque-detective-8b5.notion.site/ca59b2f856d24c22a5c9d5be6c4175ca). :)
+If you want to know more about me, please visit my [blog](https://coding-w00se.tistory.com) and the [introduction page](https://picturesque-detective-8b5.notion.site/ca59b2f856d24c22a5c9d5be6c4175ca). :)  
 (but... It's all written in Korean 🤣)
 
 <h4>📚 Online Judge<h4>
