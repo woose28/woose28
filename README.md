@@ -17,7 +17,7 @@ If you want to know more about me, please visit my [blog](https://coding-w00se.t
 
 <h4>📚 Online Judge<h4>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woose28)](https://solved.ac/woose28/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woose28)](https://solved.ac/woose28/) -->
   
 <!--
 **woose28/woose28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
